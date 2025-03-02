@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LanguageApp</string>
+    <string name="app_logo">App Logo</string>
+    <string name="toggle_password">Toggle password visibility</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="change_avatar">Change Avatar</string>
+    <string name="back">Back</string>
+    <string name="expand">Expand</string>
+    <string name="course_icon">Course Icon</string>
+    <string name="notifications">Notifications</string>
+    <string name="lesson_completed">Урок завершено</string>
+    <string name="lesson_icon">Іконка уроку</string>
+    <string name="lessonStatusIconMain">Статус іконки</string>
+</resources>
